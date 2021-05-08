@@ -1,0 +1,38 @@
+#header{
+    font-family: 'Oswald', sans-serif;
+    /* background:url(../image/myimage.jpeg)center/cover no-repeat fixed; */
+    background:url(../image/myimage-2.jpeg)center/cover no-repeat fixed;
+    opacity: 0.7;
+
+}
+.height{
+    min-height: 100vh;
+}
+.title-underline{
+    width:200px;
+    height: 5px;
+    margin:0 auto;
+}
+strong{
+    font-family: 'Anton', sans-serif;
+}
+.size{
+    width: 100vh;
+    height:70vh;
+}
+.dancing{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+}
+.dancing-5{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+.section-bg-color{
+    background-color: #dee3e0;
+}
+card{
+    border-style:solid;
+    border-width: 3px;
+    /* box-shadow:; */
+}
